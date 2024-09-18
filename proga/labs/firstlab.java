@@ -1,5 +1,3 @@
-import java.text.DecimalFormat;
-
 public class firstlab {
     public static double matrix(short a, float b){
         return switch(a){
