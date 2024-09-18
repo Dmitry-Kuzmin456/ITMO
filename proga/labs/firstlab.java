@@ -11,7 +11,7 @@ public class firstlab {
     public static void print_matrix(double[][] matrix){
         for(int i = 0;i < 6;i++){
             for(int j = 0; j < 11; j++){
-                System.out.format("%8.2f", matrix[i][j]);
+                System.out.format("%9.2f", matrix[i][j]);
             }
             System.out.print("\n");
         }
