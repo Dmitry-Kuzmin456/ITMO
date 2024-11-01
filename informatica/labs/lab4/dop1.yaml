@@ -1,0 +1,56 @@
+Monday:
+  day_of_week: Monday
+  group: P3109
+  timetable:
+  - finish_time: '9:50'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '2116'
+    pair_number: 1
+    start_time: '8:20'
+    title: informatics
+    type: practice
+  - finish_time: '11:30'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '2116'
+    pair_number: 2
+    start_time: '10:00'
+    title: informatics
+    type: practice
+  - finish_time: '13:10'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '2403'
+    pair_number: 3
+    start_time: '11:40'
+    title: diskret_math
+    type: lecture
+  - finish_time: '15:00'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '2403'
+    pair_number: 4
+    start_time: '13:30'
+    title: diskret_math
+    type: practice
+Thursday:
+  day_of_week: Thursday
+  group: P3109
+  timetable:
+  - finish_time: '15:00'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '1229'
+    pair_number: 4
+    start_time: '13:30'
+    title: history
+    type: lecture
+  - finish_time: '18:30'
+    location:
+      address: Kronverksky pr., 49, lit. A
+      class: '2201'
+    pair_number: 6
+    start_time: '17:00'
+    title: history
+    type: practice

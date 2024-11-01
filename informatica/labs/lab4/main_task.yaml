@@ -1,0 +1,56 @@
+Monday: 
+  day_of_week: "Monday"
+  group: "P3109"
+  timetable:
+  - pair_number: 1
+    start_time: "8:20"
+    finish_time: "9:50"
+    title: "informatics"
+    type: "practice"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "2116"
+  - pair_number: 2
+    start_time: "10:00"
+    finish_time: "11:30"
+    title: "informatics"
+    type: "practice"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "2116"
+  - pair_number: 3
+    start_time: "11:40"
+    finish_time: "13:10"
+    title: "diskret_math"
+    type: "lecture"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "2403"
+  - pair_number: 4
+    start_time: "13:30"
+    finish_time: "15:00"
+    title: "diskret_math"
+    type: "practice"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "2403"
+Thursday: 
+  day_of_week: "Thursday"
+  group: "P3109"
+  timetable:
+  - pair_number: 4
+    start_time: "13:30"
+    finish_time: "15:00"
+    title: "history"
+    type: "lecture"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "1229"
+  - pair_number: 6
+    start_time: "17:00"
+    finish_time: "18:30"
+    title: "history"
+    type: "practice"
+    location: 
+      address: "Kronverksky pr., 49, lit. A"
+      class: "2201"
