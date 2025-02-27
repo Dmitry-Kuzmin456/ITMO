@@ -1,0 +1,23 @@
+java -Dmode=cli -jar "C:\Users\Dmitry\Documents\OPD\lab2\bcomp-ng.jar"
+run переключает режим работы
+asm
+
+
+ORG 0x105
+WORD 0x0000
+WORD 0x0123
+WORD 0x0666
+START:
+CLA
+SUB 0X107
+SUB 0X106
+ST 0x110
+LD 0x105
+OR 0x110
+ST 0x111
+HLT
+WORD 0x3106
+WORD 0xE111
+END
+
+start C C ...
